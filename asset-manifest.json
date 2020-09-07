@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.45da2178.chunk.css",
+    "main.js": "/static/js/main.407ea85b.chunk.js",
+    "main.js.map": "/static/js/main.407ea85b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8f696bfe.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8f696bfe.js.map",
+    "static/css/2.8aa5a7f8.chunk.css": "/static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.60d63f6d.chunk.js": "/static/js/2.60d63f6d.chunk.js",
+    "static/js/2.60d63f6d.chunk.js.map": "/static/js/2.60d63f6d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1ded11f69c26ea136db73bc5f8fae550.js": "/precache-manifest.1ded11f69c26ea136db73bc5f8fae550.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.8aa5a7f8.chunk.css.map": "/static/css/2.8aa5a7f8.chunk.css.map",
+    "static/css/main.45da2178.chunk.css.map": "/static/css/main.45da2178.chunk.css.map",
+    "static/js/2.60d63f6d.chunk.js.LICENSE.txt": "/static/js/2.60d63f6d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/Banner-Stock-Photos-by-Megapixl.43b1eab5.jpg",
+    "static/media/Wallpaper-4K-Full-HD-155-1024x768-Wallpaper-Baixar-Papel-.jpg": "/static/media/Wallpaper-4K-Full-HD-155-1024x768-Wallpaper-Baixar-Papel-.dab916f8.jpg",
+    "static/media/background-1024x512.jpg": "/static/media/background-1024x512.2e58b36c.jpg",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f696bfe.js",
+    "static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.60d63f6d.chunk.js",
+    "static/css/main.45da2178.chunk.css",
+    "static/js/main.407ea85b.chunk.js"
+  ]
+}
